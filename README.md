@@ -1,4 +1,4 @@
 # sinatra_boilerplate
 Sinatra Boilerplate
 
-[Sinatra](http://i.imgur.com/juBaJBM.gifv)
+![Sinatra](http://i.imgur.com/juBaJBM.gif)
